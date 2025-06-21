@@ -77,7 +77,10 @@ LoopSpace is a feature-rich **social media web application** built using the **M
 - **Frontend** – React.js
 - **Backend** – Node.js, Express.js
 - **Database** – MongoDB Atlas
-- **Authentication** – JWT 
+- **Authentication** – JWT
+
+## 📄 License
+This project is under the [MIT License](License)
 
 ## 🙏 Acknowledgements
 - Thanks to the open-source community for the tools and libraries used in this project.
