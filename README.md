@@ -1,5 +1,8 @@
 # 🌐 LoopSpace – MERN Stack Social Media App
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+![Last Commit](https://img.shields.io/github/last-commit/itsmeamitesh01/LoopSpace)
+![Repo Size](https://img.shields.io/github/repo-size/itsmeamitesh01/LoopSpace)
+
 
 
 LoopSpace is a feature-rich **social media web application** built using the **MERN stack** (MongoDB, Express.js, React, Node.js). It enables users to connect, share updates, and interact through posts, comments, and likes — all in a modern, responsive UI.
