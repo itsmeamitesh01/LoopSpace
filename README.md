@@ -1,4 +1,5 @@
 # 🌐 LoopSpace – MERN Stack Social Media App
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 LoopSpace is a feature-rich **social media web application** built using the **MERN stack** (MongoDB, Express.js, React, Node.js). It enables users to connect, share updates, and interact through posts, comments, and likes — all in a modern, responsive UI.
 
@@ -30,20 +31,20 @@ LoopSpace is a feature-rich **social media web application** built using the **M
    ```
 
 ### 3. Install dependencies:
-   - #### Server dependencies:
+   - **Server dependencies:**
      ```
      cd server
      npm install
      ```
 
-   - #### Client dependencies:
+   - **Client dependencies:**
      ```
      cd ../client
      npm install
      ```
 
 ### 4. Set up environment variables:
-   - #### create a .env file in the server directory the following variables:
+   - **create a .env file in the server directory the following variables:**
      ```
      MONGO_URI=your_mongodb_connection_string
      JWT_SECRET=your_jwt_secret
@@ -53,13 +54,13 @@ LoopSpace is a feature-rich **social media web application** built using the **M
      ```
 
 ### 5. Run the application:
-   - #### Start server:
+   - **Start server:**
      ```
      cd server
      npm start
      ```
 
-   - #### Start client:
+   - **Start client:**
      ```
      cd ../client
      npm start
