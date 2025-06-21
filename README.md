@@ -80,7 +80,7 @@ LoopSpace is a feature-rich **social media web application** built using the **M
 - **Authentication** – JWT
 
 ## 📄 License
-This project is under the [MIT License](License)
+This project is under the [MIT License](LICENSE)
 
 ## 🙏 Acknowledgements
 - Thanks to the open-source community for the tools and libraries used in this project.
